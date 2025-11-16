@@ -137,7 +137,7 @@ export function Dashboard() {
 
           {/* Quick Action Card 3 */}
           <button
-            onClick={() => alert('Reports feature coming soon!')}
+            onClick={() => navigate('/reports')}
             className="bg-white rounded-lg shadow-md border border-gray-200 p-6 hover:shadow-lg transition-all duration-200 hover:border-amber-500 text-left group"
           >
             <div className="flex items-center gap-4">
@@ -146,7 +146,7 @@ export function Dashboard() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-gray-800 mb-1">
-                  Generate Reports
+                  View Reports
                 </h3>
                 <p className="text-sm text-gray-600">
                   Analytics & insights
