@@ -152,9 +152,9 @@ Aplikasi sudah dioptimasi untuk berbagai ukuran layar:
 ## 📞 Kontak
 
 **Developer:** [Nama Anda]  
-**Email:** [email@example.com]  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Email:** [dhika.farizi@gmail.com]  
+**GitHub:** [@syahandhika001](https://github.com/Syahandhika001)  
+**LinkedIn:** [linkedin.com/in/syahandhika-f](https://linkedin.com/in/syahandhika-f)
 
 ---
 
